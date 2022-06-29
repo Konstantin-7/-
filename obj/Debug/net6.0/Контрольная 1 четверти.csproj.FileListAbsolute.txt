@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Учеба\Знакомство с языками\.vscode\Контрольная 1 четверти\bin\Debug\net6.0\Контрольная 1 четверти.exe
+C:\Users\user\Desktop\Учеба\Знакомство с языками\.vscode\Контрольная 1 четверти\bin\Debug\net6.0\Контрольная 1 четверти.deps.json
+C:\Users\user\Desktop\Учеба\Знакомство с языками\.vscode\Контрольная 1 четверти\bin\Debug\net6.0\Контрольная 1 четверти.runtimeconfig.json
+C:\Users\user\Desktop\Учеба\Знакомство с языками\.vscode\Контрольная 1 четверти\bin\Debug\net6.0\Контрольная 1 четверти.dll
+C:\Users\user\Desktop\Учеба\Знакомство с языками\.vscode\Контрольная 1 четверти\bin\Debug\net6.0\Контрольная 1 четверти.pdb
+C:\Users\user\Desktop\Учеба\Знакомство с языками\.vscode\Контрольная 1 четверти\obj\Debug\net6.0\Контрольная 1 четверти.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Учеба\Знакомство с языками\.vscode\Контрольная 1 четверти\obj\Debug\net6.0\Контрольная 1 четверти.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Учеба\Знакомство с языками\.vscode\Контрольная 1 четверти\obj\Debug\net6.0\Контрольная 1 четверти.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Учеба\Знакомство с языками\.vscode\Контрольная 1 четверти\obj\Debug\net6.0\Контрольная 1 четверти.AssemblyInfo.cs
+C:\Users\user\Desktop\Учеба\Знакомство с языками\.vscode\Контрольная 1 четверти\obj\Debug\net6.0\Контрольная 1 четверти.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Учеба\Знакомство с языками\.vscode\Контрольная 1 четверти\obj\Debug\net6.0\Контрольная 1 четверти.dll
+C:\Users\user\Desktop\Учеба\Знакомство с языками\.vscode\Контрольная 1 четверти\obj\Debug\net6.0\refint\Контрольная 1 четверти.dll
+C:\Users\user\Desktop\Учеба\Знакомство с языками\.vscode\Контрольная 1 четверти\obj\Debug\net6.0\Контрольная 1 четверти.pdb
+C:\Users\user\Desktop\Учеба\Знакомство с языками\.vscode\Контрольная 1 четверти\obj\Debug\net6.0\Контрольная 1 четверти.genruntimeconfig.cache
+C:\Users\user\Desktop\Учеба\Знакомство с языками\.vscode\Контрольная 1 четверти\obj\Debug\net6.0\ref\Контрольная 1 четверти.dll
