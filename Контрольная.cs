@@ -6,3 +6,4 @@
 */
 
 string[] array1 = new string[7] {"hello", "2", "world", ";-)", "1234", "777", "gut"};
+string[] array2 = new string[array1.Length];
