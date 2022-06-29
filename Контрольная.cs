@@ -32,3 +32,7 @@ void PrintArray(string[] array)
     Console.Write("]");
     Console.WriteLine();
 }
+
+Solve(array1, array2);
+PrintArray(array1);
+PrintArray(array2);
