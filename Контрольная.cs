@@ -20,3 +20,15 @@ void Solve(string[] array1, string[] array2)
         }
     }
 }
+
+void PrintArray(string[] array)
+{
+    Console.WriteLine();
+    Console.Write("[ ");
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write($"{array[i]} ");
+    }
+    Console.Write("]");
+    Console.WriteLine();
+}
